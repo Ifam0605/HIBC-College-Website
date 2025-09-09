@@ -93,6 +93,13 @@ nav img{
     width: 100%;
     
 }
+
+.multiple-text {
+  color: #00aaff;       /* Change text color */
+  font-weight: bold;    /* Make it bold */
+  font-size: 24px;      /* Adjust size */
+}
+
 .text-box{
     width: 90%;
     color: #fff;

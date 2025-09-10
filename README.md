@@ -19,8 +19,9 @@ This platform showcases the institution, its courses, admission process, and fee
 
 ![College Website Screenshot](preview.png)  
 
-## Live Demo
-https://hibc-college-website.netlify.app
+## 🔗 Live Demo  
+
+👉 [Click here to view the live demo](https://hibc-college-website.netlify.app) 
 
 ---
 
